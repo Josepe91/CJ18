@@ -12,14 +12,9 @@ public class TrabajoEnClase {
         Scanner scaner=new Scanner(System.in);
 
         System.out.println("Ingrese la cantidad en pesos");
-        double pesos= scaner.nextInt();
-
-
-
-
+        double pesos= scaner.nextDouble();
 
         conver(pesos);
-
 
 }
 
