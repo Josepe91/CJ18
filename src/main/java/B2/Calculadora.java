@@ -20,7 +20,6 @@ public class Calculadora {
         divi(numero2, numero1);
 
 
-
     }
 
     private static void divi(int numero2, int numero1) {
