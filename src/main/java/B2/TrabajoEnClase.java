@@ -11,6 +11,8 @@ public class TrabajoEnClase {
 
         Scanner scaner=new Scanner(System.in);
 
+        System.out.println("Ingrese el el valor en pesos" );
+
 
         double pesos= scaner.nextDouble();
 
