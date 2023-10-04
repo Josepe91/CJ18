@@ -30,6 +30,6 @@ public class Ejercicio {
         System.out.println("Números pares: " + pares);
         System.out.println("Números duplicados: " + duplicados);
         System.out.println("Suma de números duplicados: " + sumaDuplicados);
-        System.out.println("d. Número más grande en la lista duplicada: " + (MaxNumDupli.get()));
+        System.out.println("Número más grande en la lista duplicada: " + (MaxNumDupli.get()));
     }
 }
